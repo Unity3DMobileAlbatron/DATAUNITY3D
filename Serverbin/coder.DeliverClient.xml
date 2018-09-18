@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Coder>
+	<Protocol class="gnet.AGetAllRoleInfo" maxsize="1000"/>
+	<Protocol class="gnet.AGetPayReturn" maxsize="1000"/>
+	<Protocol class="gnet.AGetPayReturnInfo" maxsize="100000"/>
+	<Protocol class="gnet.AGetRoleInfo" maxsize="1000"/>
+	<Protocol class="gnet.AHuanRuiGetRoleInfo" maxsize="1024"/>
+	<Protocol class="gnet.ATencentGetRoleInfo" maxsize="1024"/>
+	<Protocol class="gnet.ATencentPay" maxsize="1024"/>
+	<Protocol class="gnet.ATmallOrder" maxsize="1000"/>
+	<Protocol class="gnet.AuanyToGs" maxsize="100000"/>
+	<Protocol class="gnet.ConfirmUseActivationCode" maxsize="128"/>
+	<Protocol class="gnet.GGetAllRoleInfo" maxsize="1000"/>
+	<Protocol class="gnet.GGetPayReturn" maxsize="1000"/>
+	<Protocol class="gnet.GGetPayReturnInfo" maxsize="1000"/>
+	<Protocol class="gnet.GGetRoleInfo" maxsize="1000"/>
+	<Protocol class="gnet.GHuanRuiGetRoleInfo" maxsize="1024"/>
+	<Protocol class="gnet.GTencentGetRoleInfo" maxsize="1024"/>
+	<Protocol class="gnet.GTencentPay" maxsize="1024"/>
+	<Protocol class="gnet.GTmallOrder" maxsize="1000"/>
+	<Protocol class="gnet.GsToAuany" maxsize="100000"/>
+	<Protocol class="gnet.NotifyOrderInfo" maxsize="65536"/>
+	<Protocol class="gnet.NotifyOrderInfoAck" maxsize="2048"/>
+	<Protocol class="gnet.NotifyUseActivationCode" maxsize="128"/>
+	<Protocol class="gnet.UseActivationCode" maxsize="128"/>
+</Coder>

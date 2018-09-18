@@ -1,0 +1,4 @@
+ 更新步骤
+ 1.在 luxian目录下运行installgsd
+ 2. 把luxian/serverbin/gsd下的 gsd.xdb.xml gsd.xio.xml gsd.jar 这三个文件 复制到本目录,svn提交即可
+ 
